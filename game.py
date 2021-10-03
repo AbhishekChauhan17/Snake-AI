@@ -1,4 +1,5 @@
 # the code starts
+# hey there
 
 import pygame
 import random
