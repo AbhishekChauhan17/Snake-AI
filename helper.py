@@ -1,6 +1,7 @@
 # hey boi !!!!
 # the code is here
 # abcdefgh
+# rgb
 
 import matplotlib.pyplot as plt
 from IPython import display
