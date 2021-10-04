@@ -1,5 +1,6 @@
 # apple
 # banana
+# orange
 
 import torch
 import random
