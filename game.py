@@ -6,7 +6,7 @@
 # rtpcr
 # sdjfbsdkjf
 # randy orton
-
+# use of pygame and random
 import pygame
 import random
 from enum import Enum
