@@ -4,7 +4,6 @@
 # sdkjfbs
 # rgb
 # nfdojvndf
-# helper.py for plots
 import matplotlib.pyplot as plt
 from IPython import display
 
