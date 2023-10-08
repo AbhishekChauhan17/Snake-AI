@@ -3,6 +3,7 @@
 # orange
 # sjgbijsng
 # ksdbfk
+# kiosk
 
 import torch
 import random
